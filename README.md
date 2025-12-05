@@ -1,4 +1,4 @@
-[![pl](images/reskill_upskill_logo_1.1.jpeg)](https://github.com/erwinpasia/Full-Stack-Data-Science)
+[![pl](images/reskill_upskill_logo_1.1.jpeg)](https://github.com/erwinpasia/The_Project_Phoenix)
 
 > "Project Phoenix is a commitment to reinvention. Born during the global mid/post-COVID shift, it began as a personal mission: to rise from uncertainty with new purpose, new capabilities, and a future-proof identity in the world of advanced technology.
 >
@@ -11,14 +11,14 @@
 ### *A rigorous, industry-aligned professional training program in Applied AI Engineering and End-to-End Data Science (A2iE-E2E-DS), purpose-built to accelerate career readiness through immersive learning experiences and real-world Capstone Projects.*
 
 ## 1. Common Misconceptions About AI:
-[![pl](images/What_People_Think_of_AI.jpg)](https://github.com/erwinpasia/Full-Stack-Data-Science)
+[![pl](images/What_People_Think_of_AI.jpg)](https://github.com/erwinpasia/The_Project_Phoenix)
 
 AI is often mistakenly viewed as a "black box", a seemingly magical process where raw data enters, and actionable insights exit, with little understanding of what happens in between. This view can be misleading, as it oversimplifies the intricate work involved. "AI is not magic; it’s the synergy of Applied Mathematics, sophisticated Algorithms, Computer Science, and immense volumes of data". Behind the scenes, achieving meaningful AI outcomes requires a rigorous multi-step process that goes far beyond merely feeding data into a model.
 
 In reality, AI applications involve a journey that includes data preparation, model development, and continuous monitoring to ensure both accuracy and ethical considerations. AI, is not a one-step pipeline but a complex process involving methodical effort across data engineering, modeling, and iteration. Only through this multi-layered approach can AI reach its full potential, delivering insights that are accurate, ethical, and truly valuable.
 
 ## 2. Addressing AI's Constraints:
-[![pl](images/What_Are_the_Constraints_Of_AI.jpg)](https://github.com/erwinpasia/Full-Stack-Data-Science)
+[![pl](images/What_Are_the_Constraints_Of_AI.jpg)](https://github.com/erwinpasia/The_Project_Phoenix)
 
 To deploy AI responsibly, it's essential to navigate several constraints:
 
@@ -33,7 +33,7 @@ To deploy AI responsibly, it's essential to navigate several constraints:
 These factors guide responsible AI development, ensuring the systems we create are trustworthy, ethical, and secure.
 
 ## 3. Understanding the Real AI Process:
-[![pl](images/What_Actually_Is_AI.jpg)](https://github.com/erwinpasia/Full-Stack-Data-Science)
+[![pl](images/What_Actually_Is_AI.jpg)](https://github.com/erwinpasia/The_Project_Phoenix)
 
 AI isn’t just about data in and insights out, it’s a complex, multi-disciplinary process. Here's a closer look at the key stages:
 
@@ -80,7 +80,7 @@ Just as an MVP addresses immediate needs while allowing flexibility for future g
 
 <p style="text-align:left">
     <a href="https://learn.nvidia.com/en-us/training/instructor-led-workshops" target="_blank">
-    <img src="https://github.com/erwinpasia/Full-Stack-Data-Science/blob/main/images/Logo_Nvidia.jpeg" alt="NVIDIA Deep Learning Institute"  />
+    <img src="https://github.com/erwinpasia/The_Project_Phoenix/blob/main/images/Logo_Nvidia.jpeg" alt="NVIDIA Deep Learning Institute"  />
     </a>
 </p>
 
@@ -149,7 +149,7 @@ NVIDIA Jetson Developer Kit · Edge AI · Python (Programming Language) · PyTor
 ---
 <p style="text-align:left">
     <a href="https://www.coursera.org/partners/imperial" target="_blank">
-    <img src="https://github.com/erwinpasia/Full-Stack-Data-Science/blob/main/images/Logo_Imperial_College_London.jpeg" alt="Imperial College London Online"  />
+    <img src="https://github.com/erwinpasia/The_Project_Phoenix/blob/main/images/Logo_Imperial_College_London.jpeg" alt="Imperial College London Online"  />
     </a>
 </p>
 
@@ -167,7 +167,7 @@ Linear Algebra · Multivariable Calculus · Principal Component Analysis · Pyth
 ---
 <p style="text-align:left">
     <a href="https://www.deeplearning.ai/" target="_blank">
-    <img src="https://github.com/erwinpasia/Full-Stack-Data-Science/blob/main/images/Logo_DeepLearningAI.jpeg" alt="DeepLearning.AI"  />
+    <img src="https://github.com/erwinpasia/The_Project_Phoenix/blob/main/images/Logo_DeepLearningAI.jpeg" alt="DeepLearning.AI"  />
     </a>
 </p>
 
@@ -185,7 +185,7 @@ TensorFlow · VertexAI · Google Cloud Platform (GCP) · Machine Learning Produc
 ---
 <p style="text-align:left">
     <a href="https://www.kaggle.com/erwinrpasia" target="_blank">
-    <img src="https://github.com/erwinpasia/Full-Stack-Data-Science/blob/main/images/Logo_Kaggle.jpeg" alt="Kaggle"  />
+    <img src="https://github.com/erwinpasia/The_Project_Phoenix/blob/main/images/Logo_Kaggle.jpeg" alt="Kaggle"  />
     </a>
 </p>
 
@@ -211,7 +211,7 @@ Agentic AI, AI Agent & RAG Systems: Retrieval-Augmented Generation (RAG), Agenti
 ---
 <p style="text-align:left">
     <a href="https://www.ibm.com/training/badge/ibm-generative-ai-engineering-with-llms-specializat.1" target="_blank">
-    <img src="https://github.com/erwinpasia/Full-Stack-Data-Science/blob/main/images/Logo_IBM.jpeg" alt="IBM Training Global"  />
+    <img src="https://github.com/erwinpasia/The_Project_Phoenix/blob/main/images/Logo_IBM.jpeg" alt="IBM Training Global"  />
     </a>
 </p>
 
@@ -248,7 +248,7 @@ Exploratory Data Analysis · Linear Algebra · Multivariable Calculus · Applied
 ---
 <p style="text-align:left">
     <a href="https://www.ibm.com/training/badge/data-science-professional-certificate" target="_blank">
-    <img src="https://github.com/erwinpasia/Full-Stack-Data-Science/blob/main/images/Logo_IBM.jpeg" alt="IBM Training Global"  />
+    <img src="https://github.com/erwinpasia/The_Project_Phoenix/blob/main/images/Logo_IBM.jpeg" alt="IBM Training Global"  />
     </a>
 </p>
 
@@ -266,7 +266,7 @@ Analytical Skills · Data Governance · Exploratory Data Analysis · Linear Alge
 ---
 <p style="text-align:left">
     <a href="https://grow.google/certificates/data-analytics/?foundational" target="_blank">
-    <img src="https://github.com/erwinpasia/Full-Stack-Data-Science/blob/main/images/Logo_Google.jpeg" alt="Google Career Certificates"  />
+    <img src="https://github.com/erwinpasia/The_Project_Phoenix/blob/main/images/Logo_Google.jpeg" alt="Google Career Certificates"  />
     </a>
 </p>
 
@@ -284,7 +284,7 @@ Analytical Skills· Data Analysis· Exploratory Data Analysis· Data Governance�
 ---
 <p style="text-align:left">
     <a href="https://www.ibm.com/training/badge/data-engineering-professional-certificate-v2" target="_blank">
-    <img src="https://github.com/erwinpasia/Full-Stack-Data-Science/blob/main/images/Logo_IBM.jpeg" alt="IBM Training Global"  />
+    <img src="https://github.com/erwinpasia/The_Project_Phoenix/blob/main/images/Logo_IBM.jpeg" alt="IBM Training Global"  />
     </a>
 </p>
 
@@ -302,7 +302,7 @@ Data Governance · Exploratory Data Analysis · Data Architecture · Data Engine
 ---
 <p style="text-align:left">
     <a href="https://grow.google/certificates/it-support/?advanced" target="_blank">
-    <img src="https://github.com/erwinpasia/Full-Stack-Data-Science/blob/main/images/Logo_Google.jpeg" alt="Google Career Certificates"  />
+    <img src="https://github.com/erwinpasia/The_Project_Phoenix/blob/main/images/Logo_Google.jpeg" alt="Google Career Certificates"  />
     </a>
 </p>
 
