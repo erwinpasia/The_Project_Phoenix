@@ -229,7 +229,7 @@ Direct Preference Optimization (DPO), Generative AI Architecture, Hugging Face, 
 ---
 <p style="text-align:left">
     <a href="https://www.ibm.com/training/badge/ibm-ai-engineering-professional-certificate-v2" target="_blank">
-    <img src="https://github.com/erwinpasia/Full-Stack-Data-Science/blob/main/images/Logo_IBM.jpeg" alt="IBM Training Global"  />
+    <img src="https://github.com/erwinpasia/The_Project_Phoenix/blob/main/images/Logo_IBM.jpeg" alt="IBM Training Global"  />
     </a>
 </p>
 
