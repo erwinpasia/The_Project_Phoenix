@@ -32,10 +32,9 @@ The curriculum followed the **Data Science Hierarchy of Needs** and strengthened
 - **Data Collection Automation**  
   Completed the Google IT Automation with Python Professional Certificate with real-world automation projects.
 
----
-
 This experience advanced **Project Phoenix’s** larger purpose: rebuild from the ground up, merge engineering execution with entrepreneurial vision, and create a launchpad for future AI-driven ventures.
 
+---
  
 ## 1. Common Misconceptions About AI:
 [![pl](images/What_People_Think_of_AI.jpg)](https://github.com/erwinpasia/The_Project_Phoenix)
