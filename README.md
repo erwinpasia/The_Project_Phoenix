@@ -7,9 +7,36 @@
 ## **Professional Credentials & Capstone Projects Portfolios in:**
 ## *- Applied AI Engineering*
 ## *- Full Stack (E2E) Data Science*
- 
-### *A rigorous, industry-aligned professional training program in Applied AI Engineering and End-to-End Data Science (A2iE-E2E-DS), purpose-built to accelerate career readiness through immersive learning experiences and real-world Capstone Projects.*
 
+This advanced training program became a core pillar of **Project Phoenix** and supported its mission of intentional reinvention. It delivered end-to-end Data Science training shaped by a research university and industry leaders in GPU Accelerated Computing, Data, AI, and Automation. The program blended hands-on execution with the systems-thinking mindset that Project Phoenix represents, while also providing graduate-level credits toward long-term academic goals.
+
+The curriculum followed the **Data Science Hierarchy of Needs** and strengthened both engineering discipline and founder-level curiosity. Every track included practical projects tied to real industry challenges.
+
+### Program Highlights
+
+- **GenAI, LLM, ML, DL, MLOps**  
+  Completed NVIDIA Deep Learning and the IBM AI Engineering Professional Certificate (V3). Delivered multiple capstone projects demonstrating proficiency across model development and deployment. Finished DeepLearning.AI’s MLOps specialization with real production deployments.
+
+- **High Performance Computing**  
+  Built advanced GPU computing skills with NVIDIA CUDA across C, C++, and Python through projects that mirrored real GPU workloads.
+
+- **Advanced Data Analytics and GPU Accelerated Data Science**  
+  Completed NVIDIA Accelerated Data Science with RAPIDS and a full GPU-Accelerated Data Science project. Strengthened core math and analytics through Imperial College London’s *Mathematics for Machine Learning* and IBM’s *Data Scientist Professional Certificate*, each with hands-on capstone work.
+
+- **Foundational Data Analytics**  
+  Earned the Google Data Analytics Professional Certificate, culminating in a practical capstone that solved real analytical challenges.
+
+- **Data Warehouse Architecture and Big Data Engineering**  
+  Completed the IBM Data Engineering Professional Certificate (V2) with a capstone focused on industry-grade Data Warehouse and Big Data solutions.
+
+- **Data Collection Automation**  
+  Completed the Google IT Automation with Python Professional Certificate with real-world automation projects.
+
+---
+
+This experience advanced **Project Phoenix’s** larger purpose: rebuild from the ground up, merge engineering execution with entrepreneurial vision, and create a launchpad for future AI-driven ventures.
+
+ 
 ## 1. Common Misconceptions About AI:
 [![pl](images/What_People_Think_of_AI.jpg)](https://github.com/erwinpasia/The_Project_Phoenix)
 
@@ -189,7 +216,7 @@ TensorFlow · VertexAI · Google Cloud Platform (GCP) · Machine Learning Produc
     </a>
 </p>
 
-## [Kaggle Generative AI Intensive 2025Q1 — Capstone in "Agentic AI Systems" with Google & DeepMind](https://www.kaggle.com/learn-guide/5-day-genai)
+## [Kaggle Generative AI Intensive with Google & DeepMind — Capstone in "LangGraph-based Agentic AI"](https://www.kaggle.com/learn-guide/5-day-genai)
 - [**Non-Degree**]()  
 - **Instructors:** Kaggle, Google, and DeepMind Machine Learning Experts-led Generative AI Intensive Training thru Kaggle Platform.
 - **Capstone Project Repo: [<u>Github Link!</u>](https://github.com/erwinpasia/ERP_Agentic_Systems_Projects/tree/main/5-Day%20Gen%20AI%20Intensive%20Course%202025%20-%20Kaggle_and_Google)**
