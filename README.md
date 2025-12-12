@@ -8,31 +8,31 @@
 ## *- Applied AI Engineering*
 ## *- Full Stack (E2E) Data Science*
 
-This advanced training program became a core pillar of **Project Phoenix** and supported its mission of intentional reinvention. It delivered end-to-end Data Science training shaped by a research university and industry leaders in GPU Accelerated Computing, Data, AI, and Automation. The program blended hands-on execution with the systems-thinking mindset that Project Phoenix represents, while also providing graduate-level credits toward long-term academic goals.
+This advanced training program became a core pillar of **Project Phoenix** and supported its mission of intentional reinvention. It delivered *Applied AI Engineering and End-to-End Data Science* training shaped by a research university and industry leaders in *GPU Accelerated Computing, Data, AI, and Automation*. The program blended hands-on execution with the systems-thinking mindset that Project Phoenix represents, while also providing graduate-level credits toward long-term academic goals.
 
-The curriculum followed the **Data Science Hierarchy of Needs** and strengthened both engineering discipline and founder-level curiosity. Every track included practical projects tied to real industry challenges.
+The curriculum followed the **Data Science Hierarchy of Needs** and strengthened both **engineering discipline** and **founder-level curiosity**. Every track included practical projects tied to real industry challenges.
 
 ### Program Highlights
 
-- **GenAI, LLM, ML, DL, MLOps**  
-  Completed NVIDIA Deep Learning and the IBM AI Engineering Professional Certificate (V3). Delivered multiple capstone projects demonstrating proficiency across model development and deployment. Finished DeepLearning.AI’s MLOps specialization with real production deployments.
+- **GenAI, LLM, ML, DL, MLOps:**  
+  Completed NVIDIA's *Deep Learning* and the IBM's *AI Engineering Professional* training. Delivered multiple capstone projects demonstrating proficiency across model development and deployment. Finished DeepLearning.AI’s MLOps specialization with real production deployments.
 
-- **High Performance Computing**  
-  Built advanced GPU computing skills with NVIDIA CUDA across C, C++, and Python through projects that mirrored real GPU workloads.
+- **High Performance Computing:**  
+  Built advanced GPU computing skills with NVIDIA's *CUDA across C, C++, and Python* through projects that mirrored real GPU workloads.
 
-- **Advanced Data Analytics and GPU Accelerated Data Science**  
-  Completed NVIDIA Accelerated Data Science with RAPIDS and a full GPU-Accelerated Data Science project. Strengthened core math and analytics through Imperial College London’s *Mathematics for Machine Learning* and IBM’s *Data Scientist Professional Certificate*, each with hands-on capstone work.
+- **Advanced Data Analytics and GPU Accelerated Data Science:**  
+  Completed NVIDIA's *Accelerated Data Science with RAPIDS* and a full GPU-Accelerated Data Science project. Strengthened core math and analytics through Imperial College London’s *Mathematics for Machine Learning* and IBM’s *Data Science Professional* training, each with hands-on capstone work.
 
-- **Foundational Data Analytics**  
-  Earned the Google Data Analytics Professional Certificate, culminating in a practical capstone that solved real analytical challenges.
+- **Foundational Data Analytics:**  
+  Earned the foundational Google's *Data Analytics Professional* training, culminating in a practical capstone (R Programming) that solved real analytical challenges.
 
-- **Data Warehouse Architecture and Big Data Engineering**  
-  Completed the IBM Data Engineering Professional Certificate (V2) with a capstone focused on industry-grade Data Warehouse and Big Data solutions.
+- **Data Warehouse Architecture and Big Data Engineering:**  
+  Completed the IBM's *Data Engineering Professional* training with a capstone focused on industry-grade Data Warehouse and Big Data solutions.
 
-- **Data Collection Automation**  
-  Completed the Google IT Automation with Python Professional Certificate with real-world automation projects.
+- **Data Collection Automation:**  
+  Completed the Google's *IT Automation with Python Professional* training with real-world automation projects.
 
-This experience advanced **Project Phoenix’s** larger purpose: rebuild from the ground up, merge engineering execution with entrepreneurial vision, and create a launchpad for future AI-driven ventures.
+This experience advanced **Project Phoenix’s** larger purpose: rebuild from the ground up, **merge engineering execution with entrepreneurial vision**, and create a launchpad for future **AI-driven ventures**.
 
 ---
  
