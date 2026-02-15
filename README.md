@@ -8,6 +8,8 @@
 ## *- Applied AI Engineering*
 ## *- Full Stack (E2E) Data Science*
 
+[![pl](images/Full-Stack_Agentic_AI_Architecture_Engineering.png)](https://github.com/erwinpasia/The_Project_Phoenix)
+
 This advanced training program became a core pillar of **Project Phoenix** and supported its mission of intentional reinvention. It delivered *Applied AI Engineering and End-to-End Data Science* training shaped by a research university and industry leaders in *GPU Accelerated Computing, Data, AI, and Automation*. The program blended hands-on execution with the systems-thinking mindset that Project Phoenix represents, while also providing graduate-level credits toward long-term academic goals.
 
 The curriculum followed the **Data Science Hierarchy of Needs** and strengthened both **engineering discipline** and **founder-level curiosity**. Every track included practical projects tied to real industry challenges.
